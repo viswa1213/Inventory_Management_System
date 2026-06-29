@@ -14,4 +14,5 @@ public class product {
     String Price;
     String HD;
     String s;
+    String ba;
 }
