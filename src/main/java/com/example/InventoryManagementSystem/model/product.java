@@ -13,4 +13,5 @@ public class product {
     private String ProductName;
     String Price;
     String HD;
+    String s;
 }
